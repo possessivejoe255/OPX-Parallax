@@ -1,5 +1,6 @@
 ## OPX Parallax
  OPX Parallax is a mod that seeks to add Parallax Continued support to the full suite of OPX mods. 
+ Find more about OPX [here](https://forum.kerbalspaceprogram.com/topic/225300-112x-planet-pack-outer-planets-expansion-opx/).
  
  ## Dependencies are:
  - OPX-Jool
